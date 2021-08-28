@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "131896808997",
+    "project_id": "my-debts-d8ee9",
+    "storage_bucket": "my-debts-d8ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131896808997:android:588b60858b3e90bf4451cc",
+        "android_client_info": {
+          "package_name": "com.example.mydebts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131896808997-4sr0vor4hglf7h3bq7bl0i0u9vr39n7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mydebts",
+            "certificate_hash": "db0c36f5941a1e28bda361cb120beedb6336a239"
+          }
+        },
+        {
+          "client_id": "131896808997-cp2k01fa3qsplolfdvebm4e3q2a99m5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxERdw3TDSksCzrSgf8z4PMj7LjYjfy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131896808997-cp2k01fa3qsplolfdvebm4e3q2a99m5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
